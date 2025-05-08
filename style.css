@@ -1,0 +1,43 @@
+body{
+    background-color: #BE5985;
+}
+
+.Heading > p {
+    font-family: 'Caveat', cursive;
+    font-size: 40pt;
+    text-align: center;
+    color: #8E1616;
+    margin: 50px;
+    padding: 10px;
+    font-weight: bolder;
+}
+
+.cake{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.poem > p {
+    text-align: center;
+    font-family: 'Tagesschrift';
+    font-size: 15pt;
+    
+}
+
+.poem #topic{
+    font-size: 20pt;
+}
+
+.next {
+    color: #F0F1C5;
+    text-align: center;
+    font-size: 12pt;
+
+    margin-top: 100px;
+    border-radius: 40pt;
+    border:solid #8E1616;
+}
+
+
+
